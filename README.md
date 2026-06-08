@@ -1,6 +1,6 @@
 # Face Detection using Haar Cascades with OpenCV and Matplotlib
 ## Name : MUKESH RAJ D
-## Reg no : 2122242
+## Reg no : 212224100038
 
 ## Aim
 
